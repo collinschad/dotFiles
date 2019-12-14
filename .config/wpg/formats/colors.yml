@@ -1,0 +1,24 @@
+wallpaper: "/home/chad/.config/wpg/wallpapers/nice-city.jpg"
+
+special:
+    background: "#0d0c0f"
+    foreground: "#e0d3bf"
+    cursor: "#e0d3bf"
+
+colors:
+    color0: "#0d0c0f"
+    color1: "#9C604A"
+    color2: "#798574"
+    color3: "#F0A215"
+    color4: "#9C9172"
+    color5: "#DFA365"
+    color6: "#A8A68A"
+    color7: "#e0d3bf"
+    color8: "#9c9385"
+    color9: "#9C604A"
+    color10: "#798574"
+    color11: "#F0A215"
+    color12: "#9C9172"
+    color13: "#DFA365"
+    color14: "#A8A68A"
+    color15: "#e0d3bf"

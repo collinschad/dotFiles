@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/chad/.config/wpg/wallpapers/wallhaven-674082.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040301",
+        "foreground": "#e6dec8",
+        "cursor": "#e6dec8"
+    },
+    "colors": {
+        "color0": "#040301",
+        "color1": "#F78F28",
+        "color2": "#EFB427",
+        "color3": "#FFC333",
+        "color4": "#EFDF57",
+        "color5": "#FFF261",
+        "color6": "#F16B8B",
+        "color7": "#e6dec8",
+        "color8": "#a19b8c",
+        "color9": "#F78F28",
+        "color10": "#EFB427",
+        "color11": "#FFC333",
+        "color12": "#EFDF57",
+        "color13": "#FFF261",
+        "color14": "#F16B8B",
+        "color15": "#e6dec8"
+    }
+}

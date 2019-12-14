@@ -1,0 +1,47 @@
+URxvt.intensityStyles: false
+URxvt.scrollBar: false
+!! Font preferences
+*.font: xft:Consolas:style=Regular:size=16:antialias=true, xft:SauceCodePro Nerd Font, xft:SauceCodePro Nerd Font Mono
+*.boldFont: xft:Consolas:style=Bold, xft:SauceCodePro Nerd Font, xft:SauceCodePro Nerd Font Mono
+emacs*font: Consolas:style=Regular:size=16:antialias=true
+
+URxvt.letterSpace: -1
+
+*cursor: #a8a19f
+
+
+URxvt*iso14755: false
+
+URxvt.perl-ext-common: font-size
+
+
+
+URxvt.internalBorder: 25
+
+/* !*background: #1d2021 */
+/* *background: [70]#000000 */
+/* *foreground: #ebdbb2 */
+/* ! Black + DarkGrey */
+/* *color0:  #282828 */
+/* *color8:  #928374 */
+/* ! DarkRed + Red */
+/* *color1:  #cc241d */
+/* *color9:  #fb4934 */
+/* ! DarkGreen + Green */
+/* *color2:  #98971a */
+/* *color10: #b8bb26 */
+/* ! DarkYellow + Yellow */
+/* *color3:  #d79921 */
+/* *color11: #fabd2f */
+/* ! DarkBlue + Blue */
+/* *color4:  #458588 */
+/* *color12: #83a598 */
+/* ! DarkMagenta + Magenta */
+/* *color5:  #b16286 */
+/* *color13: #d3869b */
+/* ! DarkCyan + Cyan */
+/* *color6:  #689d6a */
+/* *color14: #8ec07c */
+/* ! LightGrey + White */
+/* *color7:  #a89984 */
+/* *color15: #ebdbb2 */

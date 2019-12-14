@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/chad/.config/wpg/wallpapers/IMG_6555.JPG",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0a0c",
+        "foreground": "#eadaca",
+        "cursor": "#eadaca"
+    },
+    "colors": {
+        "color0": "#0a0a0c",
+        "color1": "#B5A598",
+        "color2": "#B4ABA5",
+        "color3": "#CDB094",
+        "color4": "#E1BE9A",
+        "color5": "#CCB8A6",
+        "color6": "#DCC2A7",
+        "color7": "#eadaca",
+        "color8": "#a3988d",
+        "color9": "#B5A598",
+        "color10": "#B4ABA5",
+        "color11": "#CDB094",
+        "color12": "#E1BE9A",
+        "color13": "#CCB8A6",
+        "color14": "#DCC2A7",
+        "color15": "#eadaca"
+    }
+}

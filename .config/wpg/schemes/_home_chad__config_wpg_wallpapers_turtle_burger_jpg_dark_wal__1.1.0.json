@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/chad/.config/wpg/wallpapers/turtle_burger.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#140d03",
+        "foreground": "#e7e2df",
+        "cursor": "#e7e2df"
+    },
+    "colors": {
+        "color0": "#140d03",
+        "color1": "#8C7990",
+        "color2": "#768B8E",
+        "color3": "#A89AA0",
+        "color4": "#C8B7A8",
+        "color5": "#B7C6B6",
+        "color6": "#DBCAB0",
+        "color7": "#e7e2df",
+        "color8": "#a19e9c",
+        "color9": "#8C7990",
+        "color10": "#768B8E",
+        "color11": "#A89AA0",
+        "color12": "#C8B7A8",
+        "color13": "#B7C6B6",
+        "color14": "#DBCAB0",
+        "color15": "#e7e2df"
+    }
+}
